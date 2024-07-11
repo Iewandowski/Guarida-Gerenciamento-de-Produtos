@@ -1,10 +1,10 @@
 # Gerenciamento de Produtos
 Sistema de gerenciamento de produtos desenvolvido em C# com ASP.NET Core, utilizando Dapper e SQLite.
 
-##Visão Geral
+## Visão Geral
 O Gerenciamento de Produtos é uma aplicação para gerenciar informações de produtos, permitindo operações básicas como criar, listar, visualizar detalhes, atualizar e excluir produtos. Utiliza um banco de dados SQLite em memória para armazenamento persistente dos dados.
 
-##Funcionalidades
+## Funcionalidades
 **Cadastro de Produtos**: Permite adicionar novos produtos com nome e preço.
 **Listagem de Produtos**: Exibe todos os produtos cadastrados.
 **Detalhes do Produto**: Mostra informações detalhadas de um produto específico.
@@ -12,13 +12,13 @@ O Gerenciamento de Produtos é uma aplicação para gerenciar informações de p
 **Exclusão de Produtos**: Remove um produto do sistema.
 **Validação de Dados**: Garante que nome e preço sejam fornecidos e válidos antes de salvar no banco de dados.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 ASP.NET Core: Framework para construção de aplicativos web com C#.
 Dapper: Micro ORM que simplifica o acesso a bancos de dados.
 SQLite: Banco de dados relacional leve, utilizado em memória para facilitar o desenvolvimento e testes.
 Swagger: Ferramenta para documentação e teste de APIs.
 
-##Instalação
+## Instalação
 Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
