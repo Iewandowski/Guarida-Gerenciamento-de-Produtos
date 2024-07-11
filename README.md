@@ -28,7 +28,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
    
 2. Navegue até o diretório do projeto:
     ```bash
-   cd .\gerenciamento-de-produto\ 
+   cd .\Guarida-Gerenciamento-de-Produtos\
 3. Execute a aplicação:
    ```bash
    dotnet run
