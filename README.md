@@ -23,23 +23,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
 
-  ```bash
-  git clone https://github.com/seu-usuario/gerenciador-de-produtos.git
-
+   ```bash
+   git clone https://github.com/Iewandowski/Guarida-Gerenciamento-de-Produtos.git
+   
 2. Navegue até o diretório do projeto:
-
-bash
-Copiar código
-cd gerenciador-de-produtos
-Execute a aplicação:
-
-bash
-Copiar código
-dotnet run
-O aplicativo estará disponível em http://localhost:5000.
-
-Para acessar a documentação da API, abra o Swagger:
-
-bash
-Copiar código
-https://localhost:5000/swagger
