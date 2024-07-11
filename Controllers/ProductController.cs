@@ -2,7 +2,6 @@
 using System.Data;
 using gerenciamento_de_produto.Service;
 using gerenciamento_de_produto.Dto.Request;
-using Swashbuckle.AspNetCore.Annotations;
 
 namespace gerenciamento_de_produto.Controllers
 {

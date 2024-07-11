@@ -4,7 +4,7 @@ using gerenciamento_de_produto.Service.Implementation;
 using gerenciamento_de_produto.Service;
 using gerenciamento_de_produto.Data;
 using System.Data;
-using Swashbuckle.AspNetCore.SwaggerUI;
+using gerenciamento_de_produto.config;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -36,6 +36,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseMiddleware<ValidationMiddleware>();
 
 app.MapControllers();
 
