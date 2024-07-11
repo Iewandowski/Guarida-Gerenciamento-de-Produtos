@@ -35,4 +35,4 @@ Para rodar este projeto localmente, siga os passos abaixo:
 4. Para acessar a documentação da API, abra o Swagger:
    ```bash
    http://localhost:5244/swagger/index.html
-   
+5. Rodar coleção do Postman (em anexo no email)
