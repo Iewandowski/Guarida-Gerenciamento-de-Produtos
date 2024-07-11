@@ -7,7 +7,7 @@ O Gerenciamento de Produtos é uma aplicação para gerenciar informações de p
 ## Funcionalidades
 - **Cadastro de Produtos**: Permite adicionar novos produtos com nome e preço.
 - **Listagem de Produtos**: Exibe todos os produtos cadastrados.
-- **Detalhes do Produto**: Mostra informações detalhadas de um produto específico.
+- **Listagem de Produto por id**: Mostra informações de um produto específico.
 - **Atualização de Produtos**: Permite modificar o nome ou preço de um produto existente.
 - **Exclusão de Produtos**: Remove um produto do sistema.
 - **Validação de Dados**: Garante que nome e preço sejam fornecidos e válidos antes de salvar no banco de dados.
