@@ -13,10 +13,10 @@ O Gerenciamento de Produtos é uma aplicação para gerenciar informações de p
 - **Validação de Dados**: Garante que nome e preço sejam fornecidos e válidos antes de salvar no banco de dados.
 
 ## Tecnologias Utilizadas
-ASP.NET Core: Framework para construção de aplicativos web com C#.
-Dapper: Micro ORM que simplifica o acesso a bancos de dados.
-SQLite: Banco de dados relacional leve, utilizado em memória para facilitar o desenvolvimento e testes.
-Swagger: Ferramenta para documentação e teste de APIs.
+- ASP.NET Core: Framework para construção de aplicativos web com C#.
+- Dapper: Micro ORM que simplifica o acesso a bancos de dados.
+- SQLite: Banco de dados relacional leve, utilizado em memória para facilitar o desenvolvimento e testes.
+- Swagger: Ferramenta para documentação e teste de APIs.
 
 ## Instalação
 Para rodar este projeto localmente, siga os passos abaixo:
